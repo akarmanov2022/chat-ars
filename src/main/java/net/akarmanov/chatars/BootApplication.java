@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class AkchatApplication {
+public class BootApplication {
 
   public static void main(String[] args) {
-    SpringApplication.run(AkchatApplication.class, args);
+    SpringApplication.run(BootApplication.class, args);
   }
 
 }
